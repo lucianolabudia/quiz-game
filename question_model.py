@@ -4,4 +4,3 @@ class Question:
         self.text = q_text
         self.question = q_answer
 
-new_question = Question()
